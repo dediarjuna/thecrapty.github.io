@@ -1,0 +1,28 @@
+@media screen and ( max-width: 476px ) {
+    .hero-beranda {
+        width: 90%;
+    }
+    .hero-beranda2 {
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .hero-beranda img {
+        height: 209px;
+    }
+}
+
+@media screen and ( max-width: 843px ) {
+    .hero-beranda {
+        width: 90%;
+    }
+    .hero-beranda2 {
+        display: flex;
+        padding-bottom: 0;
+        padding-top: 50px;
+    }
+    .hero-beranda img {
+        margin-top: 30px;
+        height: 209px;
+    }
+}

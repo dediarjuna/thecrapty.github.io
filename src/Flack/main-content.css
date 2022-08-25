@@ -1,0 +1,54 @@
+.container-beranda {
+    justify-content: center;
+    box-sizing: border-box;
+}
+.hero-beranda {
+    width: 80%;
+    margin: auto;
+}
+.hero-beranda2 {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    display: flex;
+}
+
+.title {
+    margin: auto;
+    padding-right: 15px;
+}
+.title h1 {
+    font-size: 28px;
+    padding-right: 15px;
+    line-height: 32px;
+    color: rgb(62,72,85);
+    font-family: 'Josefin sans';
+}
+
+.title p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 21px;
+    color: rgb(62,72,85);
+    font-weight: normal;
+    font-family: 'Josefin sans';
+}
+
+
+.hero-beranda img {
+    height: 300px;
+}
+/* /*ghfhfhfhfhf */
+.container-percaya {
+    max-width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.percaya p {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 21px;
+    color: rgb(35,72,83);
+}
